@@ -62,7 +62,7 @@ Compare sales of products such as:
 ## Project Files
 
 * Task01.pbix
-* Task01 Report.pdf
+* Task01 Report.docx
 * Task01.png
 
 ## Business Value
